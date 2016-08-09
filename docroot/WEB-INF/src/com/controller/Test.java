@@ -16,6 +16,7 @@ public class Test extends MVCPortlet {
 		Logger.getLogger(Test.class.getName()).log(null,
 				java.util.logging.Level.SEVERE, null);
 		System.out.println("okkk");
+		System.out.println("okkkkkk");
 
 	}
 }
