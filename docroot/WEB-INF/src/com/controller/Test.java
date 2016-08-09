@@ -17,6 +17,7 @@ public class Test extends MVCPortlet {
 				java.util.logging.Level.SEVERE, null);
 		System.out.println("okkk");
 		System.out.println("okkkkkk");
+		System.out.println("more okkk for testing");
 
 	}
 }
